@@ -1,4 +1,4 @@
-# HW2
+# HW2 Easy Solution
 Sub StockA()
 
     For Each ws In Worksheets
